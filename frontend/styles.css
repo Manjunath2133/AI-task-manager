@@ -1,0 +1,14 @@
+/* frontend/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#task-form {
+    margin-bottom: 20px;
+}
+
+#task-list {
+    list-style-type: none;
+    padding: 0;
+}
